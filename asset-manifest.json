@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jesuadeadpool.github.io/proyecto-react/static/css/main.4fb2ac5e.css",
+    "main.js": "/jesuadeadpool.github.io/proyecto-react/static/js/main.64500181.js",
+    "static/media/bootstrap-icons.woff?": "/jesuadeadpool.github.io/proyecto-react/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/jesuadeadpool.github.io/proyecto-react/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/jesuadeadpool.github.io/proyecto-react/index.html",
+    "main.4fb2ac5e.css.map": "/jesuadeadpool.github.io/proyecto-react/static/css/main.4fb2ac5e.css.map",
+    "main.64500181.js.map": "/jesuadeadpool.github.io/proyecto-react/static/js/main.64500181.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fb2ac5e.css",
+    "static/js/main.64500181.js"
+  ]
+}
